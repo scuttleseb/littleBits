@@ -42,7 +42,7 @@ app.use(express.static(path.join(__dirname, 'public')));
     //next(err);
 //});
 
-// error handlers
+// error handlers installed
 
 // development error handler
 // will print stacktrace
